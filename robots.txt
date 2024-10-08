@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratempary.github.io/sitemap.html.gz
+Sitemap: https://ratempary.github.io/app/sitemap.html.gz
+Sitemap: https://ratempary.github.io/assets/sitemap.html.gz
+Sitemap: https://ratempary.github.io/css/sitemap.html.gz
+Sitemap: https://ratempary.github.io/data/sitemap.html.gz
+Sitemap: https://ratempary.github.io/includes/sitemap.html.gz
+Sitemap: https://ratempary.github.io/item/sitemap.html.gz
+Sitemap: https://ratempary.github.io/src/sitemap.html.gz
